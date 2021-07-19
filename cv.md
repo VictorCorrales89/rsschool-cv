@@ -28,4 +28,9 @@ June 2021 Foundation in Computer Sience
 * active
 * communicated
 
+##Languages
+* Russia (native)
+* English (basic)
+* French (basic)
+
 
